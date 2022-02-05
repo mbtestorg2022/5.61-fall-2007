@@ -40,12 +40,57 @@ Grading
 
 A total of 600 points is possible in the course as follows:
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Homework | 100 |
-| Exams | 300 (100 each) |
-| Final exam | 200 |
-| Total | 600 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+300 (100 each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+200
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+600
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Reviews
 ----------------
@@ -57,45 +102,501 @@ Calendar
 
 The calendar below provided information on the course's lecture (L) and exam (E) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Historical development | &nbsp; |
-| L2 | The atom of Niels Bohr | &nbsp; |
-| L3 | Wave nature, de Broglie wavelength | &nbsp; |
-| L4 | Uncertainty principle | &nbsp; |
-| L5 | Stationary waves, Schrödinger equation | Problem set 1 due |
-| L6 | Particle in a box | &nbsp; |
-| L7 | Probabilities, expectation values, operators I | &nbsp; |
-| L8 | Probabilities, expectation values, operators II | Problem set 2 due |
-| L9 | Postulates of quantum mechanics I | &nbsp; |
-| L10 | Postulates of quantum mechanics II | Problem set 3 due |
-| L11 | Classic harmonic oscillator | &nbsp; |
-| L12 | Quantum harmonic oscillator | &nbsp; |
-| E1 | First hour exam | &nbsp; |
-| L13 | Tunneling | &nbsp; |
-| L14 | Three dimensional systems | Problem set 4 due |
-| L15 | Rigid rotor | &nbsp; |
-| L16 | Spherical harmonics | &nbsp; |
-| L17 | Angular momenta | &nbsp; |
-| L18 | Hydrogen atom I | Problem set 5 due |
-| L19 | Hydrogen atom II | &nbsp; |
-| L20 | Variation principle | &nbsp; |
-| L21 | Helium atom | &nbsp; |
-| E2 | Second hour exam | &nbsp; |
-| L22 | Hartree-Fock, SCF | &nbsp; |
-| L23 | Electron spin | Problem set 6 due |
-| L24 | Pauli principle | &nbsp; |
-| L25 | Born-Oppenheimer approximation | &nbsp; |
-| L26 | Molecular orbital theory, H2+ | &nbsp; |
-| L27 | LCAO-MO theory | Problem set 7 due |
-| E3 | Third hour exam | &nbsp; |
-| L28 | Qualitative molecular orbital theory | &nbsp; |
-| L29 | Modern electronic structure theory | &nbsp; |
-| L30 | Interaction of light with matter | &nbsp; |
-| L31 | Vibrational spectra | Problem set 8 due |
-| L32 | NMR spectroscopy I | &nbsp; |
-| L33 | NMR spectroscopy II | &nbsp; |
-| L34 | Perturbation theory | Problem set 9 due |
-| L35 | Vibrational anharmonicity | &nbsp; |
-| L36 | Crystal field states | &nbsp; |
-| E4 | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Historical development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+The atom of Niels Bohr
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Wave nature, de Broglie wavelength
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Uncertainty principle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Stationary waves, Schrödinger equation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Particle in a box
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilities, expectation values, operators I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilities, expectation values, operators II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Postulates of quantum mechanics I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Postulates of quantum mechanics II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Classic harmonic oscillator
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum harmonic oscillator
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E1
+{{< tdclose >}}
+{{< tdopen >}}
+First hour exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Tunneling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Three dimensional systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Rigid rotor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Spherical harmonics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Angular momenta
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen atom I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen atom II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Variation principle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Helium atom
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E2
+{{< tdclose >}}
+{{< tdopen >}}
+Second hour exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Hartree-Fock, SCF
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Electron spin
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Pauli principle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Born-Oppenheimer approximation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular orbital theory, H2+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+{{< tdopen >}}
+LCAO-MO theory
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E3
+{{< tdclose >}}
+{{< tdopen >}}
+Third hour exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L28
+{{< tdclose >}}
+{{< tdopen >}}
+Qualitative molecular orbital theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L29
+{{< tdclose >}}
+{{< tdopen >}}
+Modern electronic structure theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L30
+{{< tdclose >}}
+{{< tdopen >}}
+Interaction of light with matter
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L31
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrational spectra
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L32
+{{< tdclose >}}
+{{< tdopen >}}
+NMR spectroscopy I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L33
+{{< tdclose >}}
+{{< tdopen >}}
+NMR spectroscopy II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L34
+{{< tdclose >}}
+{{< tdopen >}}
+Perturbation theory
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L35
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrational anharmonicity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L36
+{{< tdclose >}}
+{{< tdopen >}}
+Crystal field states
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E4
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
