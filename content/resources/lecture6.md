@@ -4,6 +4,7 @@ description: Lecture notes on the wave-particle duality of matter, the Heisenber
   uncertainty principle, Schr?dinger, and the time-independent Schr?dinger equation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-61-physical-chemistry-fall-2007/c53ccb5c21f1baecb013ea5a48801b27_lecture6.pdf
 file_type: application/pdf
+parent_uid: 70e24d76-de15-e943-d5e6-3ce28f445bab
 resourcetype: Document
 title: lecture6.pdf
 uid: c53ccb5c-21f1-baec-b013-ea5a48801b27
